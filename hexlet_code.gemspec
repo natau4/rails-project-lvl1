@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "It's like Simple Form, but developed by me."
   spec.homepage      = "https://github.com/natau4/rails-project-lvl1"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.7.0")
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
