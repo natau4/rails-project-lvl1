@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/natau4/rails-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/natau4/rails-project-lvl1/actions)
+[![Hexlet check](https://github.com/natau4/rails-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/natau4/rails-project-lvl1/actions/workflows/hexlet-check.yml)
+[![Tests](https://github.com/natau4/rails-project-lvl1/workflows/main/badge.svg)](https://github.com/natau4/rails-project-lvl1/actions/workflows/main.yml)
 
 # HexletCode
 
